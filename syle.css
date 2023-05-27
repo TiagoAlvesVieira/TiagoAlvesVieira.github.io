@@ -1,0 +1,57 @@
+   body {
+    padding: 3%;
+   }
+ 
+   .meuNome {
+     font-family: 'Franklin Gotic Mediium', 'Arial Narrow', 'Arial', sans-serif
+     text-align; center
+   }
+
+   .descricao {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     position: absolute;
+     top: 36%
+     rigth: 8%;
+   }
+
+   body {
+      background-color: #DDD888;
+   }
+
+   .resido {
+      font-weight: 900;
+   }
+
+   .javascript {
+      font-size: 30px;
+    }
+
+    .sql {
+      font-size: 35px;
+    }
+
+    .bootstrap {
+      font-size: 40px;
+    }
+
+    .metoAgil {
+      font-size: 50px;
+    }
+
+    #minha-foto {
+      float:left 
+      height: 280px;
+      padding: 10px; 
+      background-color: blueviolet;
+    }
+
+    .image-container {
+      height: 100px;
+      position: relative;
+    }
+
+    ul li:nth-child(odd) {
+      background-color: aqua;  
+    }
+
+    
